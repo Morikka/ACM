@@ -1,4 +1,4 @@
-//����ջ
+//单调栈——数组实现
 //62 ms	11700 KB
 #include<cstdio>
 #include<algorithm>
