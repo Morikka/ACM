@@ -15,7 +15,6 @@ long long sum[mx],res=0;
 char chr[mx];
 map<long long,int> mp[26];
 int main(){
-
 for(int i=0;i<26;i++)
     scanf("%d",&cnt[i]);
 scanf("%s",chr);
