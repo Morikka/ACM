@@ -1,0 +1,54 @@
+a is 1
+tmp.w is 2
+tmp.w is 4
+a is 4
+tmp.w is 1
+tmp.w is 3
+a is 3
+tmp.w is 2
+tmp.w is 4
+1061109567
+5
+  ----   
+a is 1
+tmp.w is 2
+tmp.w is 4
+tmp.w is 2
+tmp.w is 4
+a is 4
+tmp.w is 1
+tmp.w is 3
+tmp.w is 1
+tmp.w is 3
+a is 3
+tmp.w is 2
+tmp.w is 4
+tmp.w is 2
+tmp.w is 4
+1061109567
+5
+  ----   
+a is 1
+tmp.w is 2
+tmp.w is 4
+tmp.w is 2
+tmp.w is 4
+tmp.w is 2
+tmp.w is 4
+a is 4
+tmp.w is 1
+tmp.w is 3
+tmp.w is 1
+tmp.w is 3
+tmp.w is 1
+tmp.w is 3
+a is 3
+tmp.w is 2
+tmp.w is 4
+tmp.w is 2
+tmp.w is 4
+tmp.w is 2
+tmp.w is 4
+1061109567
+-1
+  ----   
